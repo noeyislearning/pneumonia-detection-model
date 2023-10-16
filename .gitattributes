@@ -1,2 +1,5 @@
-*.h5 diff=lfs -text model
-*.tm diff=lfs -text model
+*.h5 linguist-detectable=true
+*.h5 linguist-detectable=h5
+
+*.tm linguist-detectable=true
+*.tm linguist-detectable=tm
