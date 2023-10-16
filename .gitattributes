@@ -1,0 +1,2 @@
+*.h5 diff=lfs -text model
+*.tm diff=lfs -text model
